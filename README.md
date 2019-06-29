@@ -26,5 +26,6 @@
  - ch02. v-bind, v-model
 
 #### 6.29
- - ch02:06
+ - ch02:06 v-model modifier
+
 
