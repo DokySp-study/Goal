@@ -18,7 +18,18 @@
  - [Getting Start 3](https://nesoy.github.io/articles/2017-01/travis-ci)
  - [Travis-CI Official Tutorial](https://docs.travis-ci.com/user/tutorial/)
  - [Publish Automation](https://jojoldu.tistory.com/275)
+
+# Jenkins
+ - 19.08.20
+ - https://kingbbode.tistory.com/35
+ - http://www.itworld.co.kr/news/107527
  
+# Opensource License
+ - 19.08.20
+ - http://www.bloter.net/archives/209318
+ - http://jinyongjeong.github.io/2016/06/01/software_license/
+ - https://zinee-world.tistory.com/308
+
 # Github
  - 19.08.20
  - [reference](https://www.lesstif.com/pages/viewpage.action?pageId=54952153)
