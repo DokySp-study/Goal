@@ -43,13 +43,13 @@
  - [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 
 # Git-Flow 및 버전관리
- - ![[Git]Tag 추가, 변경 및 삭제하기](http://minsone.github.io/git/git-addtion-and-modified-delete-tag)
- - ![Git Flow Integration으로 Git Flow 심플하게 운영하기](https://jojoldu.tistory.com/268)
- - ![Git의 개념과 Git Flow](https://cupjoo.tistory.com/6)
- - ![Git flow 사용해보기(https://boxfoxs.tistory.com/347)
- - ![GIT을 기반으로 한 프로젝트 개발프로세스](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9)
- - ![git-flow cheatsheet.io](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
- - ![github 프로젝트 릴리즈 하는 법](https://www.lesstif.com/pages/viewpage.action?pageId=20774996)
+ - [[Git]Tag 추가, 변경 및 삭제하기](http://minsone.github.io/git/git-addtion-and-modified-delete-tag)
+ - [Git Flow Integration으로 Git Flow 심플하게 운영하기](https://jojoldu.tistory.com/268)
+ - [Git의 개념과 Git Flow](https://cupjoo.tistory.com/6)
+ - [Git flow 사용해보기](https://boxfoxs.tistory.com/347)
+ - [GIT을 기반으로 한 프로젝트 개발프로세스](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9)
+ - [git-flow cheatsheet.io](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
+ - [github 프로젝트 릴리즈 하는 법](https://www.lesstif.com/pages/viewpage.action?pageId=20774996)
  
 
 # Plan
