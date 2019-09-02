@@ -25,6 +25,7 @@
  - [Getting Start 3](https://nesoy.github.io/articles/2017-01/travis-ci)
  - [Travis-CI Official Tutorial](https://docs.travis-ci.com/user/tutorial/)
  - [Publish Automation](https://jojoldu.tistory.com/275)
+ - [웹 퍼블리싱 실습](https://jojoldu.tistory.com/250?category=635883)
 
 # Jenkins
  - 19.08.20
@@ -58,7 +59,9 @@
  - [GIT을 기반으로 한 프로젝트 개발프로세스](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9)
  - [git-flow cheatsheet.io](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
  - [github 프로젝트 릴리즈 하는 법](https://www.lesstif.com/pages/viewpage.action?pageId=20774996)
- 
+
+# Reference
+ - [marked.js example for Vue.js](https://vuejs.org/v2/examples/)
 
 # Plan
  - Docker Study
