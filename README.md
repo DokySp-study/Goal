@@ -23,11 +23,9 @@
  - [Getting Start 1](https://gompangs.tistory.com/entry/GIT-CIcontinuous-Integration%EB%9E%80-travis-%EC%82%AC%EC%9A%A9%EB%B2%95)
  - [Getting Start 2](http://guswnsxodlf.github.io/how-to-use-travis-ci)
  - [Getting Start 3](https://nesoy.github.io/articles/2017-01/travis-ci)
- - [Travis-CI Official Tutorial](https://docs.travis-ci.com/user/tutorial/)
- 
+ - [Travis-CI Official Tutorial](https://docs.travis-ci.com/user/tutorial/) <br><br>
  - [Gradle + SpringBoot + Travis CI + Coveralls + 텔레그램 연동하기](https://jojoldu.tistory.com/275)
- - [웹 퍼블리싱(스프링부트) 실습 (10강 중 1강)](https://jojoldu.tistory.com/250?category=635883)
- 
+ - [웹 퍼블리싱(스프링부트) 실습 (10강 중 1강)](https://jojoldu.tistory.com/250?category=635883) <br><br>
  - [안드로이드+트래비스CI](https://androidhuman.tistory.com/540)
  - [Node.js+트래비스CI](https://blog.outsider.ne.kr/781)
  - [Node.js+트래비스CI+코드커버리지](https://sanghaklee.tistory.com/53)
