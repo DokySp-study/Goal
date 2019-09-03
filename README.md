@@ -29,6 +29,7 @@
  - [안드로이드+트래비스CI](https://androidhuman.tistory.com/540)
  - [Node.js+트래비스CI](https://blog.outsider.ne.kr/781)
  - [Node.js+트래비스CI+코드커버리지](https://sanghaklee.tistory.com/53)
+ - [Setup Continuous Integration with Travis CI in Your Nodejs App](https://dev.to/lauragift21/setup-continuous-integration-with-travis-ci-in-your-nodejs-app-26i2)
 
 # Continuous Integration (Jenkins)
  - 19.08.20
