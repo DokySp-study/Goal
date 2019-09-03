@@ -67,10 +67,17 @@
  - [marked.js example for Vue.js](https://vuejs.org/v2/examples/)
  - [마크다운 랜더러](https://derveljunit.tistory.com/287)
 
+ # Heroku
+  - 19.09.03
+  - [[Node.js] Heroku로 배포( deploy )하기](https://victorydntmd.tistory.com/112)
+  - [Heroku(헤로쿠) 가입, Heroku CLI 다운로드, 간단 사용법](https://www.a-mean-blog.com/ko/blog/%EB%8B%A8%ED%8E%B8%EA%B0%95%EC%A2%8C/_/Heroku-%ED%97%A4%EB%A1%9C%EC%BF%A0-%EA%B0%80%EC%9E%85-Heroku-CLI-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9%EB%B2%95)
+
 # Plan
  - Docker Study
  - Python Study
  - Kotlin Study
+ 
+
 
 
 
