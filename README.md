@@ -63,6 +63,8 @@
  - [GIT을 기반으로 한 프로젝트 개발프로세스](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9)
  - [git-flow cheatsheet.io](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
  - [github 프로젝트 릴리즈 하는 법](https://www.lesstif.com/pages/viewpage.action?pageId=20774996)
+ - ![git log adog!](https://i.stack.imgur.com/ElVkf.jpg)
+ - 뭔가.. 잘 안된다.. 좀 더 연습해봐야 할듯 ㅠㅜ
 
 # Reference
  - [marked.js example for Vue.js](https://vuejs.org/v2/examples/)
