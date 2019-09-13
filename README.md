@@ -75,6 +75,9 @@
   - [[Node.js] Heroku로 배포( deploy )하기](https://victorydntmd.tistory.com/112)
   - [Heroku(헤로쿠) 가입, Heroku CLI 다운로드, 간단 사용법](https://www.a-mean-blog.com/ko/blog/%EB%8B%A8%ED%8E%B8%EA%B0%95%EC%A2%8C/_/Heroku-%ED%97%A4%EB%A1%9C%EC%BF%A0-%EA%B0%80%EC%9E%85-Heroku-CLI-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9%EB%B2%95)
 
+# Typora Diagram
+ - [실시간 미리보기와 코드 펜스 기능을 갖춘 다기능 마크다운 에디터 'Typora'](https://macnews.tistory.com/4799)
+
 # Plan
  - Docker Study
  - Python Study
