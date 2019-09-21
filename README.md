@@ -57,17 +57,6 @@
  - [[Git] git add 취소하기, git commit 취소하기, git push 취소하기](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
  - [Git. Tag 추가, 변경, 삭제](https://devmjun.github.io/archive/GitTag)
 
-# Git-Flow 및 버전관리
- - [[Git]Tag 추가, 변경 및 삭제하기](http://minsone.github.io/git/git-addtion-and-modified-delete-tag)
- - [Git Flow Integration으로 Git Flow 심플하게 운영하기](https://jojoldu.tistory.com/268)
- - [Git의 개념과 Git Flow](https://cupjoo.tistory.com/6)
- - [Git flow 사용해보기](https://boxfoxs.tistory.com/347)
- - [GIT을 기반으로 한 프로젝트 개발프로세스](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9)
- - [git-flow cheatsheet.io](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
- - [github 프로젝트 릴리즈 하는 법](https://www.lesstif.com/pages/viewpage.action?pageId=20774996)
- - ![git log adog!](https://i.stack.imgur.com/ElVkf.jpg)
- - 뭔가.. 잘 안된다.. 좀 더 연습해봐야 할듯 ㅠㅜ
-
 # Reference
  - [marked.js example for Vue.js](https://vuejs.org/v2/examples/)
  - [마크다운 랜더러](https://derveljunit.tistory.com/287)
@@ -95,10 +84,17 @@
 # Plan
  - Python Study
  - Kotlin Study
- 
 
+# Done!
 
-
-
-
-
+## :heavy_check_mark: Git-Flow 및 버전관리
+ - https://github.com/DokySp-study/git-flow-test
+ - [x] [[Git]Tag 추가, 변경 및 삭제하기](http://minsone.github.io/git/git-addtion-and-modified-delete-tag)
+ - [x] [Git Flow Integration으로 Git Flow 심플하게 운영하기](https://jojoldu.tistory.com/268)
+ - [x] [Git의 개념과 Git Flow](https://cupjoo.tistory.com/6)
+ - [x] [Git flow 사용해보기](https://boxfoxs.tistory.com/347)
+ - [x] [GIT을 기반으로 한 프로젝트 개발프로세스](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9)
+ - [x] [git-flow cheatsheet.io](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
+ - [x] [github 프로젝트 릴리즈 하는 법](https://www.lesstif.com/pages/viewpage.action?pageId=20774996)
+ - [x] ![git log adog!](https://i.stack.imgur.com/ElVkf.jpg)
+ - [x] ~~뭔가.. 잘 안된다.. 좀 더 연습해봐야 할듯 ㅠㅜ~~ 맨 위 링크 보면서 복습!
