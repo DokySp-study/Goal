@@ -82,15 +82,17 @@
 
 # Electron JS
  - 19.09.15
- - [ ] [Electron JS](https://electronjs.org/#apps)
+ - [x] [Electron JS](https://electronjs.org/#apps)
  - [ ] [https://www.youtube.com/watch?v=69D1PIZqUQk](일렉트론 1.0 가볍게 시작하기 - 01 일렉트론 소개 (Introduce Electron) YT)
  - [ ] [Electron 개념정리](https://cyberx.tistory.com/206)
  - [ ] [https://jinblog.kr/189](웹으로 PC프로그램 만들 수 있다!!? (Electron + Vuejs))
  - [ ] [일렉트론 개발환경 구축하기](https://cyberx.tistory.com/209)
  - [ ] [https://fkkmemi.github.io/electron/electron-00-intro/](Electron 0 일렉트론뷰로 우아한 데스크탑 앱 만들기 기초)
 
+# Shell Script
+ - To Be Continue
+
 # Plan
- - Docker Study
  - Python Study
  - Kotlin Study
  
