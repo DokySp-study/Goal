@@ -72,11 +72,11 @@
 # Electron JS
  - 19.09.15
  - [x] [Electron JS](https://electronjs.org/#apps)
- - [ ] [https://www.youtube.com/watch?v=69D1PIZqUQk](일렉트론 1.0 가볍게 시작하기 - 01 일렉트론 소개 (Introduce Electron) YT)
+ - [ ] [일렉트론 1.0 가볍게 시작하기 - 01 일렉트론 소개 (Introduce Electron) YT](https://www.youtube.com/watch?v=69D1PIZqUQk)
  - [ ] [Electron 개념정리](https://cyberx.tistory.com/206)
- - [ ] [https://jinblog.kr/189](웹으로 PC프로그램 만들 수 있다!!? (Electron + Vuejs))
+ - [ ] [웹으로 PC프로그램 만들 수 있다!!? (Electron + Vuejs)](https://jinblog.kr/189)  
  - [ ] [일렉트론 개발환경 구축하기](https://cyberx.tistory.com/209)
- - [ ] [https://fkkmemi.github.io/electron/electron-00-intro/](Electron 0 일렉트론뷰로 우아한 데스크탑 앱 만들기 기초)
+ - [ ] [Electron 0 일렉트론뷰로 우아한 데스크탑 앱 만들기 기초](https://fkkmemi.github.io/electron/electron-00-intro/) 
 
 # Shell Script
  - To Be Continue
