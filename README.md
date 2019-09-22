@@ -72,14 +72,22 @@
 # Electron JS
  - 19.09.15
  - [x] [Electron JS](https://electronjs.org/#apps)
- - [ ] [일렉트론 1.0 가볍게 시작하기 - 01 일렉트론 소개 (Introduce Electron) YT](https://www.youtube.com/watch?v=69D1PIZqUQk)
- - [ ] [Electron 개념정리](https://cyberx.tistory.com/206)
+ - [x] [일렉트론 1.0 가볍게 시작하기 - 01 일렉트론 소개 (Introduce Electron) YT](https://www.youtube.com/watch?v=69D1PIZqUQk)
+ - [x] [Electron 개념정리](https://cyberx.tistory.com/206)
  - [ ] [웹으로 PC프로그램 만들 수 있다!!? (Electron + Vuejs)](https://jinblog.kr/189)  
  - [ ] [일렉트론 개발환경 구축하기](https://cyberx.tistory.com/209)
  - [ ] [Electron 0 일렉트론뷰로 우아한 데스크탑 앱 만들기 기초](https://fkkmemi.github.io/electron/electron-00-intro/) 
+ - [ ] [Electron 문서](https://electronjs.org/docs)
 
 # Shell Script
- - To Be Continue
+ - 자료 수집 중...
+
+# Google Chrome 알림 (+FCM)
+ - [ ] [크롬 확장 프로그램 만들기, GCM 알림 받기](https://falsy.me/%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%A7%8C%EB%93%A4%EA%B8%B0-gcm-%EC%95%8C%EB%A6%BC-%EB%B0%9B%EA%B8%B0/)
+ - [ ] [웹 앱에 푸시 알림 추가](https://developers.google.com/web/fundamentals/codelabs/push-notifications/?hl=ko)
+
+# Vue Cli
+ - [ ] [Vue-Cli](http://vuejs.kr/vue/vue-cli/2018/01/27/vue-cli-3/)
 
 # Plan
  - Python Study
@@ -98,3 +106,12 @@
  - [x] [github 프로젝트 릴리즈 하는 법](https://www.lesstif.com/pages/viewpage.action?pageId=20774996)
  - [x] ![git log adog!](https://i.stack.imgur.com/ElVkf.jpg)
  - [x] ~~뭔가.. 잘 안된다.. 좀 더 연습해봐야 할듯 ㅠㅜ~~ 맨 위 링크 보면서 복습!
+
+
+## zsh 설치 및 플러그인
+ - `$ sudo apt-get install zsh`
+ - `$ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh`
+ - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+ - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+ - [Zsh community projects](https://github.com/zsh-users/)
+
