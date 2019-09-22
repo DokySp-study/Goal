@@ -114,4 +114,5 @@
  - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
  - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
  - [Zsh community projects](https://github.com/zsh-users/)
+ - npm global 설치 항목이 실행되지 않을 경우, `.zshrc` 마지막에 `source ~/.profile` 적어주기 
 
