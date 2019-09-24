@@ -79,7 +79,12 @@
  - [ ] [Electron 0 일렉트론뷰로 우아한 데스크탑 앱 만들기 기초](https://fkkmemi.github.io/electron/electron-00-intro/) 
  - [ ] [Electron 문서](https://electronjs.org/docs)
 
+# nw.js
+ - 19.9.24
+ - [ ] [nwjs를 통한 하이브리드 데스크탑 어플리케이션 만들기](https://tyle.io/blog/67)
+
 # Shell Script
+ - 19.9.22
  - 자료 수집 중...
 
 # Google Chrome 알림 (+FCM)
@@ -108,7 +113,7 @@
  - [x] ~~뭔가.. 잘 안된다.. 좀 더 연습해봐야 할듯 ㅠㅜ~~ 맨 위 링크 보면서 복습!
 
 
-## zsh 설치 및 플러그인
+## :heavy_check_mark: zsh 설치 및 플러그인
  - `$ sudo apt-get install zsh`
  - `$ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh`
  - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
