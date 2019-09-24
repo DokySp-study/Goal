@@ -60,11 +60,12 @@
 # Reference
  - [ ] [marked.js example for Vue.js](https://vuejs.org/v2/examples/)
  - [ ] [마크다운 랜더러](https://derveljunit.tistory.com/287)
+ - [ ] [package.json에서 ~(틸트)와 ^(캐럿)의 차이점](https://blog.outsider.ne.kr/1041)
 
- # Heroku
-  - 19.09.03
-  - [ ] [[Node.js] Heroku로 배포( deploy )하기](https://victorydntmd.tistory.com/112)
-  - [ ] [Heroku(헤로쿠) 가입, Heroku CLI 다운로드, 간단 사용법](https://www.a-mean-blog.com/ko/blog/%EB%8B%A8%ED%8E%B8%EA%B0%95%EC%A2%8C/_/Heroku-%ED%97%A4%EB%A1%9C%EC%BF%A0-%EA%B0%80%EC%9E%85-Heroku-CLI-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9%EB%B2%95)
+# Heroku
+ - 19.09.03
+ - [ ] [[Node.js] Heroku로 배포( deploy )하기](https://victorydntmd.tistory.com/112)
+ - [ ] [Heroku(헤로쿠) 가입, Heroku CLI 다운로드, 간단 사용법](https://www.a-mean-blog.com/ko/blog/%EB%8B%A8%ED%8E%B8%EA%B0%95%EC%A2%8C/_/Heroku-%ED%97%A4%EB%A1%9C%EC%BF%A0-%EA%B0%80%EC%9E%85-Heroku-CLI-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 # Typora Diagram
  - [ ] [실시간 미리보기와 코드 펜스 기능을 갖춘 다기능 마크다운 에디터 'Typora'](https://macnews.tistory.com/4799)
@@ -82,6 +83,11 @@
 # nw.js
  - 19.9.24
  - [ ] [nwjs를 통한 하이브리드 데스크탑 어플리케이션 만들기](https://tyle.io/blog/67)
+
+# NeDB
+ - 19.9.24
+ - [ ] [[javascript] 자바스크립트 기반의 NeDB 사용하기](https://sub0709.tistory.com/51)
+ - [ ] [NeDB - JSON 데이터 저장 데이터베이스 추천 및 예제 설명](https://niceman.tistory.com/100)
 
 # Shell Script
  - 19.9.22
