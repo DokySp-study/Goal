@@ -16,6 +16,9 @@
 
 # Vue.js
  - 19.06.24
+ - [ ] [실무에서 사용하는 Vue.js 프로젝트 구조
+](https://joshua1988.github.io/web-development/vuejs/vue-structure/)
+ - [ ] [웹팩의 file-loader와 url-loader](http://jeonghwan-kim.github.io/js/2017/05/22/webpack-file-loader.html)
  
 # Continuous Integration (Travis-CI)
  - 19.08.19
