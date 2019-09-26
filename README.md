@@ -12,7 +12,7 @@
  - [ ] http://devstory.ibksplatform.com/2018/06/docker.html
 
 # iOS
- - 19.06.??
+ - 19.06.?
 
 # Vue.js
  - 19.06.24
