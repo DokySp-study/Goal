@@ -10,7 +10,7 @@
  - [ ] [Electron 0 일렉트론뷰로 우아한 데스크탑 앱 만들기 기초](https://fkkmemi.github.io/electron/electron-00-intro/) 
  - [ ] [Electron 문서](https://electronjs.org/docs)
 
-## markdown memo pad app
+## Markdown MemoPad App
  - chrome app & electron app
 
 ### Google Chrome 알림 (+FCM)
@@ -52,6 +52,8 @@
 ## Shell Script
  - 19.9.22
  - 자료 수집 중...
+
+<br>
 
 # :red_circle: Pending
 
@@ -121,6 +123,8 @@
 ## Plan
  - Python Study
  - Kotlin Study
+
+<br>
 
 # :black_circle: Closed
 
