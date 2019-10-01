@@ -138,6 +138,10 @@
  - [x] [git-flow cheatsheet.io](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
  - [x] [github 프로젝트 릴리즈 하는 법](https://www.lesstif.com/pages/viewpage.action?pageId=20774996)
  - [x] ![git log adog!](https://i.stack.imgur.com/ElVkf.jpg)
+ - `~/.profile` 에 아래 코드를 추가
+   ```bash
+   alias gitlog='git log --all --decorate --oneline --graph'
+   ```
  - [x] ~~뭔가.. 잘 안된다.. 좀 더 연습해봐야 할듯 ㅠㅜ~~ 맨 위 링크 보면서 복습!
 
 ## :heavy_check_mark: zsh 설치 및 플러그인
