@@ -137,7 +137,7 @@
  - [x] [GIT을 기반으로 한 프로젝트 개발프로세스](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9)
  - [x] [git-flow cheatsheet.io](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
  - [x] [github 프로젝트 릴리즈 하는 법](https://www.lesstif.com/pages/viewpage.action?pageId=20774996)
- - [x] ![git log adog!](https://i.stack.imgur.com/ElVkf.jpg)
+ - [x] <img width=200 src="https://i.stack.imgur.com/ElVkf.jpg">
  - `~/.profile` 에 아래 코드를 추가
    ```bash
    alias gitlog='git log --all --decorate --oneline --graph'
