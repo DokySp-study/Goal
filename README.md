@@ -1,5 +1,22 @@
 # :large_blue_circle: Open
 
+## Doky.space 개인 블로그
+
+### 마크다운 랜더러
+ - [ ] [marked.js example for Vue.js](https://vuejs.org/v2/examples/)
+ - [ ] [마크다운 랜더러](https://derveljunit.tistory.com/287)
+ - [ ] [package.json에서 ~(틸트)와 ^(캐럿)의 차이점](https://blog.outsider.ne.kr/1041)
+
+### Nuxt.js
+ - 19.10.08
+ - [ ] [NUXT로 혼자 웹사이트 만들기 1 소개](https://fkkmemi.github.io/nuxt/nuxt-001-intro/)
+ - [ ] [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
+ - [ ] [GitHub Pages에 배포하기](https://ko.nuxtjs.org/faq/github-pages/)
+ - [ ] []()
+ - [ ] []()
+
+<br>
+
 ## Electron JS
  - 19.09.15
  - [x] [Electron JS](https://electronjs.org/#apps)
@@ -28,27 +45,17 @@
 
 <br>
 
-## Doky.space 개인 블로그
-
-### 마크다운 랜더러
- - [ ] [marked.js example for Vue.js](https://vuejs.org/v2/examples/)
- - [ ] [마크다운 랜더러](https://derveljunit.tistory.com/287)
- - [ ] [package.json에서 ~(틸트)와 ^(캐럿)의 차이점](https://blog.outsider.ne.kr/1041)
-
-### Heroku
- - 19.09.03
- - [ ] [[Node.js] Heroku로 배포( deploy )하기](https://victorydntmd.tistory.com/112)
- - [ ] [Heroku(헤로쿠) 가입, Heroku CLI 다운로드, 간단 사용법](https://www.a-mean-blog.com/ko/blog/%EB%8B%A8%ED%8E%B8%EA%B0%95%EC%A2%8C/_/Heroku-%ED%97%A4%EB%A1%9C%EC%BF%A0-%EA%B0%80%EC%9E%85-Heroku-CLI-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9%EB%B2%95)
-
-<br>
-
 ## TypeScript
  - 19.10.01
  - [ ] [**TypeScript-Handbook 한글 문서**](https://typescript-kr.github.io/)
  - [ ] [TypeScript의 소개와 개발 환경 구축](https://poiemaweb.com/typescript-introduction)
  - [ ] [TypeScript를 무서워하지 않아도 되는 이유](https://han41858.tistory.com/14)
  - [ ] [TypeScript 현업 적용 후기](https://medium.com/tapjoykorea/typescript-%ED%98%84%EC%97%85-%EC%A0%81%EC%9A%A9-%ED%9B%84%EA%B8%B0-caad266c8142)
- 
+
+## PWA
+ - 19.10.08
+ - [ ] [[PWA] 프로그레시브 웹 앱 시작하기 (1) - PWA란?](https://codevkr.tistory.com/85)
+
 ## Shell Script
  - 19.9.22
  - 자료 수집 중...
@@ -103,6 +110,11 @@
  - [ ] http://www.bloter.net/archives/209318
  - [ ] http://jinyongjeong.github.io/2016/06/01/software_license/
  - [ ] https://zinee-world.tistory.com/308
+
+## Heroku
+ - 19.09.03
+ - [ ] [[Node.js] Heroku로 배포( deploy )하기](https://victorydntmd.tistory.com/112)
+ - [ ] [Heroku(헤로쿠) 가입, Heroku CLI 다운로드, 간단 사용법](https://www.a-mean-blog.com/ko/blog/%EB%8B%A8%ED%8E%B8%EA%B0%95%EC%A2%8C/_/Heroku-%ED%97%A4%EB%A1%9C%EC%BF%A0-%EA%B0%80%EC%9E%85-Heroku-CLI-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 ## Typora Diagram
  - [ ] [실시간 미리보기와 코드 펜스 기능을 갖춘 다기능 마크다운 에디터 'Typora'](https://macnews.tistory.com/4799)
