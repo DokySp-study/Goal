@@ -12,7 +12,7 @@
  - [ ] [NUXT로 혼자 웹사이트 만들기 1 소개](https://fkkmemi.github.io/nuxt/nuxt-001-intro/)
  - [ ] [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
  - [ ] [GitHub Pages에 배포하기](https://ko.nuxtjs.org/faq/github-pages/)
- - [ ] [Nuxt.js 개념부터 설치까지 빠르게 배우기](https://kdydesign.github.io/2019/04/10/nuxtjs-tutorial/)
+ - [] [Nuxt.js 개념부터 설치까지 빠르게 배우기](https://kdydesign.github.io/2019/04/10/nuxtjs-tutorial/)
  - 블로그 제작 시, 백엔드+프론트엔드 작업 용이할 듯!
  - SSR이 백엔드 api 코드를 빌드할 수 있게 도와주는 건지..? 기존의 백엔드 코드를 빌드된 형태로 사용할 수 있게 하는게 SSR인지 알아보기!
 
