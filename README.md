@@ -2,6 +2,9 @@
 
 ## Doky.space 개인 블로그
  - [ ] [최근 개발 흐름 따라가보기](https://fkkmemi.github.io/talk/rest-mobile/)
+ - [ ] [리액트 프로젝트에 ESLint 와 Prettier 끼얹기](https://velog.io/@velopert/eslint-and-prettier-in-react)
+ - [ ] [오오... 이런걸 만드셨다니..(존경)](https://velog.io)
+ - [ ] [Algolia 적용](https://imreplay.com/blogging/%EA%B2%80%EC%83%89-%EB%8F%84%EA%B5%AC%EC%9D%B8-Algolia%EB%A5%BC-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/)
 
 ### 마크다운 랜더러
  - [ ] [marked.js example for Vue.js](https://vuejs.org/v2/examples/)
