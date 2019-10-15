@@ -1,8 +1,10 @@
 # :large_blue_circle: Open
 
 # [URGENT] VIM to IDE
-<img width=200 src='./img/fxxking_dex_memory.jpg'>
- > ~~Fxxking LOD..~~
+<img width=400 src='./img/fxxking_dex_memory.jpg'>
+
+> ~~Fxxking LOD..~~
+
  - Linux On Dex have very tiny memory for virtualization.
  - Run VS CODE + Chrome + Terminal + etc.. then it struggle with memory shortage.
  - To solve this situation, may use Termial IDE is the answer.
