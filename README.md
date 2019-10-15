@@ -1,5 +1,13 @@
 # :large_blue_circle: Open
 
+# [URGENT] VIM to IDE
+<img width=200 src='./img/fxxking_dex_memory.jpg'>
+ > ~~Fxxking LOD..~~
+ - Linux On Dex have very tiny memory for virtualization.
+ - Run VS CODE + Chrome + Terminal + etc.. then it struggle with memory shortage.
+ - To solve this situation, may use Termial IDE is the answer.
+ - [Vim을 IDE처럼 사용하기](https://blog.b1ue.sh/vim-ide/)
+
 ## Doky.space 개인 블로그
  - [ ] [최근 개발 흐름 따라가보기](https://fkkmemi.github.io/talk/rest-mobile/)
  - [ ] [리액트 프로젝트에 ESLint 와 Prettier 끼얹기](https://velog.io/@velopert/eslint-and-prettier-in-react)
@@ -49,6 +57,9 @@
  - [ ] [NeDB - JSON 데이터 저장 데이터베이스 추천 및 예제 설명](https://niceman.tistory.com/100)
 
 <br>
+
+## Python
+ - 19.10.15
 
 ## TypeScript
  - 19.10.01
