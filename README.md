@@ -50,6 +50,9 @@
 
 <br>
 
+## Python
+ - 19.10.15
+
 ## TypeScript
  - 19.10.01
  - [ ] [**TypeScript-Handbook 한글 문서**](https://typescript-kr.github.io/)
