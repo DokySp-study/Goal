@@ -9,6 +9,11 @@
  - Run VS CODE + Chrome + Terminal + etc.. then it struggle with memory shortage.
  - To solve this situation, may use Termial IDE is the answer.
  - [Vim을 IDE처럼 사용하기](https://blog.b1ue.sh/vim-ide/)
+ - [Vue.js Highlighting](https://github.com/posva/vim-vue)
+ - [Vim Color Themes](http://vimcolors.com/)
+   - [VSCode Dark+ for Vim](https://github.com/tomasiser/vim-code-dark)
+ - [Intellisence for Vim: YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
+ - [Oh My Tmux!](https://github.com/gpakosz/.tmux)
 
 ## Doky.space 개인 블로그
  - [ ] [최근 개발 흐름 따라가보기](https://fkkmemi.github.io/talk/rest-mobile/)
