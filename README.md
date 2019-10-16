@@ -14,6 +14,7 @@
    - [VSCode Dark+ for Vim](https://github.com/tomasiser/vim-code-dark)
  - [Intellisence for Vim: YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
  - [Oh My Tmux!](https://github.com/gpakosz/.tmux)
+ - tmux에서 vim 실행 시, 색이 이상해지는 문제가 있음!
 
 ## Doky.space 개인 블로그
  - [ ] [최근 개발 흐름 따라가보기](https://fkkmemi.github.io/talk/rest-mobile/)
