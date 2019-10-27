@@ -1,21 +1,5 @@
 # :large_blue_circle: Open
 
-# [URGENT] VIM to IDE
-<img width=400 src='./img/fxxking_dex_memory.jpg'>
-
-> ~~Fxxking LOD..~~
-
- - Linux On Dex have very tiny memory for virtualization.
- - Run VS CODE + Chrome + Terminal + etc.. then it struggle with memory shortage.
- - To solve this situation, may use Termial IDE is the answer.
- - [Vim을 IDE처럼 사용하기](https://blog.b1ue.sh/vim-ide/)
- - [Vue.js Highlighting](https://github.com/posva/vim-vue)
- - [Vim Color Themes](http://vimcolors.com/)
-   - [VSCode Dark+ for Vim](https://github.com/tomasiser/vim-code-dark)
- - [Intellisence for Vim: YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
- - [Oh My Tmux!](https://github.com/gpakosz/.tmux)
- - tmux에서 vim 실행 시, 색이 이상해지는 문제가 있음!
-
 ## Doky.space 개인 블로그
  - [ ] [최근 개발 흐름 따라가보기](https://fkkmemi.github.io/talk/rest-mobile/)
  - [ ] [리액트 프로젝트에 ESLint 와 Prettier 끼얹기](https://velog.io/@velopert/eslint-and-prettier-in-react)
@@ -163,6 +147,22 @@
 <br>
 
 # :black_circle: Closed
+
+## [URGENT] VIM to IDE
+<img width=400 src='./img/fxxking_dex_memory.jpg'>
+
+> ~~Fxxking LOD..~~
+
+ - Linux On Dex가 가상화 메모리에 굉장히 작은 메모리를 할당한듯하다.
+ - 그래서.. VS Code + Chrome + 터미널 + 등등.. 을 실행시키면 메모리 용량 부족으로 고통스러워한다..
+ - 이 뭣같은 문제 때문에,, VS Code 대신에 Vim을 IDE처럼 쓰는 방식을 쓰기로 했다.
+ - [Vim을 IDE처럼 사용하기](https://blog.b1ue.sh/vim-ide/)
+ - [Vue.js Highlighting](https://github.com/posva/vim-vue)
+ - [Vim Color Themes](http://vimcolors.com/)
+   - [VSCode Dark+ for Vim](https://github.com/tomasiser/vim-code-dark)
+ - [Intellisence for Vim: YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
+ - [Oh My Tmux!](https://github.com/gpakosz/.tmux)
+ - **tmux에서 vim 실행 시, 색이 이상해지는 문제가 있음!**
 
 ## :heavy_check_mark: Git-Flow 및 버전관리
  - https://github.com/DokySp-study/git-flow-test
