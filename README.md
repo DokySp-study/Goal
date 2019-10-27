@@ -69,7 +69,7 @@
  - 자료 수집 중...
 
 ## 그냥.. 끄적임..
- - [ ][gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog)
+ - [ ] [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog)
 
 <br>
 
