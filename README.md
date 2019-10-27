@@ -70,6 +70,7 @@
 
 ## 그냥.. 끄적임..
  - [ ] [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog)
+ - [ ] [성민이형 벨로그](https://velog.io/@chris/introducing-useful-productivity-tools)
 
 <br>
 
