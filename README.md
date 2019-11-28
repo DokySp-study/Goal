@@ -106,6 +106,7 @@
  - 19.08.20
  - [ ] [reference](https://www.lesstif.com/pages/viewpage.action?pageId=54952153)
  - [x] [shields.io](https://shields.io/)
+ - [ ] [hits, 마크다운 방문자수 뱃지 제공](https://hits.seeyoufarm.com/)
  - [ ] [Github of shields.io](https://github.com/badges/shields)
  - [ ] [How to write **readme.md** better](https://newhiwoong.github.io/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%B3%B4%20%EA%B3%B5%EC%9C%A0/%EC%88%98%EC%A4%80%EA%B8%89%EC%9D%98-Github-README.md-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
  - [ ] [resume](https://sujinlee.me/professional-github/)
