@@ -5,7 +5,7 @@
  - [ ] 인사이드 자바스크립트 책
 
 ## Shell Script
- - ~~19.09.22~~ :arrow_left: 19.12.10
+ - ~~19.09.22~~ :arrow_right: 19.12.10
  - [ ] [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1)
  - 자료 수집 중...
 
