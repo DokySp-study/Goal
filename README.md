@@ -1,5 +1,105 @@
 # :large_blue_circle: Open
 
+## Javascript
+ - 19.12.04
+ - [ ] 인사이드 자바스크립트 책
+
+## Shell Script
+ - ~~19.09.22~~ :arrow_left: 19.12.10
+ - [ ] [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1)
+ - 자료 수집 중...
+
+## iOS
+ - 19.06.?
+
+## Swift
+ - 19.01.19
+
+## Python
+ - ~~19.10.15~~ :arrow_right: 19.11.18
+ - [Repository](https://github.com/DokySp-study/python)
+ - [x] 가장 쉬운 파이썬 입문교실 책
+ - [ ] Bite to Python 책
+
+## 그냥.. 끄적임..
+ - [ ] [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog)
+ - [ ] [emoji-cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+ - [ ] [성민이형 벨로그](https://velog.io/@chris/introducing-useful-productivity-tools)
+
+<br>
+
+# :red_circle: Pending
+
+## Vue.js
+ - 19.06.24
+ - [ ] [실무에서 사용하는 Vue.js 프로젝트 구조
+](https://joshua1988.github.io/web-development/vuejs/vue-structure/)
+ - [ ] [웹팩의 file-loader와 url-loader](http://jeonghwan-kim.github.io/js/2017/05/22/webpack-file-loader.html)
+ - [ ] [Vue-Cli](http://vuejs.kr/vue/vue-cli/2018/01/27/vue-cli-3/)
+ 
+## Continuous Integration (Travis-CI)
+ - 19.08.19
+ - [ ] 대표적인 CI툴: Jenkins, TeamCity, AppVeyor, etc..
+ - [ ] [Getting Start 1](https://gompangs.tistory.com/entry/GIT-CIcontinuous-Integration%EB%9E%80-travis-%EC%82%AC%EC%9A%A9%EB%B2%95)
+ - [ ] [Getting Start 2](http://guswnsxodlf.github.io/how-to-use-travis-ci)
+ - [ ] [Getting Start 3](https://nesoy.github.io/articles/2017-01/travis-ci)
+ - [ ] [Travis-CI Official Tutorial](https://docs.travis-ci.com/user/tutorial/) <br><br>
+ - [ ] [Gradle + SpringBoot + Travis CI + Coveralls + 텔레그램 연동하기](https://jojoldu.tistory.com/275)
+ - [ ] [웹 퍼블리싱(스프링부트) 실습 (10강 중 1강)](https://jojoldu.tistory.com/250?category=635883) <br><br>
+ - [ ] [안드로이드+트래비스CI](https://androidhuman.tistory.com/540)
+ - [ ] [Node.js+트래비스CI](https://blog.outsider.ne.kr/781)
+ - [ ] [Node.js+트래비스CI+코드커버리지](https://sanghaklee.tistory.com/53)
+ - [ ] [Setup Continuous Integration with Travis CI in Your Nodejs App](https://dev.to/lauragift21/setup-continuous-integration-with-travis-ci-in-your-nodejs-app-26i2)
+
+## Continuous Integration (Jenkins)
+ - 19.08.20
+ - [ ] https://kingbbode.tistory.com/35
+ - [ ] http://www.itworld.co.kr/news/107527
+ 
+## Github
+ - 19.08.20
+ - [ ] [reference](https://www.lesstif.com/pages/viewpage.action?pageId=54952153)
+ - [x] [shields.io](https://shields.io/)
+ - [ ] [hits, 마크다운 방문자수 뱃지 제공](https://hits.seeyoufarm.com/)
+ - [ ] [Github of shields.io](https://github.com/badges/shields)
+ - [ ] [How to write **readme.md** better](https://newhiwoong.github.io/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%B3%B4%20%EA%B3%B5%EC%9C%A0/%EC%88%98%EC%A4%80%EA%B8%89%EC%9D%98-Github-README.md-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
+ - [ ] [resume](https://sujinlee.me/professional-github/)
+ - [ ] [awesome readme](https://github.com/matiassingers/awesome-readme)
+ - [ ] [example](https://github.com/sujinleeme/readme-template/tree/master/korean)
+ - [ ] [markdown](https://how-to-use.tistory.com/2)
+ - [x] [**readme-md-generator**](https://github.com/kefranabg/readme-md-generator)
+ - [ ] [simpleicons](https://simpleicons.org/)
+ - [x] [[Git] git add 취소하기, git commit 취소하기, git push 취소하기](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html) `reset HEAD@` `reset HEAD^` `reset --hard`
+ - [x] [Git. Tag 추가, 변경, 삭제](https://devmjun.github.io/archive/GitTag)
+
+## TypeScript
+ - 19.10.01
+ - [ ] [**TypeScript-Handbook 한글 문서**](https://typescript-kr.github.io/)
+ - [ ] [TypeScript의 소개와 개발 환경 구축](https://poiemaweb.com/typescript-introduction)
+ - [ ] [TypeScript를 무서워하지 않아도 되는 이유](https://han41858.tistory.com/14)
+ - [ ] [TypeScript 현업 적용 후기](https://medium.com/tapjoykorea/typescript-%ED%98%84%EC%97%85-%EC%A0%81%EC%9A%A9-%ED%9B%84%EA%B8%B0-caad266c8142)
+
+## Opensource License
+ - 19.08.20
+ - [ ] http://www.bloter.net/archives/209318
+ - [ ] http://jinyongjeong.github.io/2016/06/01/software_license/
+ - [ ] https://zinee-world.tistory.com/308
+
+## Heroku
+ - 19.09.03
+ - [ ] [[Node.js] Heroku로 배포( deploy )하기](https://victorydntmd.tistory.com/112)
+ - [ ] [Heroku(헤로쿠) 가입, Heroku CLI 다운로드, 간단 사용법](https://www.a-mean-blog.com/ko/blog/%EB%8B%A8%ED%8E%B8%EA%B0%95%EC%A2%8C/_/Heroku-%ED%97%A4%EB%A1%9C%EC%BF%A0-%EA%B0%80%EC%9E%85-Heroku-CLI-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9%EB%B2%95)
+
+## Typora Diagram
+ - [ ] [실시간 미리보기와 코드 펜스 기능을 갖춘 다기능 마크다운 에디터 'Typora'](https://macnews.tistory.com/4799)
+
+## Docker
+ - 19.05.12
+ - [ ] https://www.44bits.io/ko/post/why-should-i-use-docker-container
+ - [ ] https://www.slideshare.net/pyrasis/docker-fordummies-44424016
+ - [ ] http://www.itworld.co.kr/news/110748
+ - [ ] http://devstory.ibksplatform.com/2018/06/docker.html
+
 ## Doky.space 개인 블로그
  - [ ] [최근 개발 흐름 따라가보기](https://fkkmemi.github.io/talk/rest-mobile/)
  - [ ] [리액트 프로젝트에 ESLint 와 Prettier 끼얹기](https://velog.io/@velopert/eslint-and-prettier-in-react)
@@ -50,103 +150,11 @@
 
 <br>
 
-## Python
- - 19.10.15
-
-## TypeScript
- - 19.10.01
- - [ ] [**TypeScript-Handbook 한글 문서**](https://typescript-kr.github.io/)
- - [ ] [TypeScript의 소개와 개발 환경 구축](https://poiemaweb.com/typescript-introduction)
- - [ ] [TypeScript를 무서워하지 않아도 되는 이유](https://han41858.tistory.com/14)
- - [ ] [TypeScript 현업 적용 후기](https://medium.com/tapjoykorea/typescript-%ED%98%84%EC%97%85-%EC%A0%81%EC%9A%A9-%ED%9B%84%EA%B8%B0-caad266c8142)
-
 ## PWA
  - 19.10.08
  - [ ] [[PWA] 프로그레시브 웹 앱 시작하기 (1) - PWA란?](https://codevkr.tistory.com/85)
 
-## Shell Script
- - 19.9.22
- - 자료 수집 중...
-
-## 그냥.. 끄적임..
- - [ ] [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog)
- - [ ] [성민이형 벨로그](https://velog.io/@chris/introducing-useful-productivity-tools)
-
-<br>
-
-# :red_circle: Pending
-
-## Vue.js
- - 19.06.24
- - [ ] [실무에서 사용하는 Vue.js 프로젝트 구조
-](https://joshua1988.github.io/web-development/vuejs/vue-structure/)
- - [ ] [웹팩의 file-loader와 url-loader](http://jeonghwan-kim.github.io/js/2017/05/22/webpack-file-loader.html)
- - [ ] [Vue-Cli](http://vuejs.kr/vue/vue-cli/2018/01/27/vue-cli-3/)
- 
-## Continuous Integration (Travis-CI)
- - 19.08.19
- - [ ] 대표적인 CI툴: Jenkins, TeamCity, AppVeyor, etc..
- - [ ] [Getting Start 1](https://gompangs.tistory.com/entry/GIT-CIcontinuous-Integration%EB%9E%80-travis-%EC%82%AC%EC%9A%A9%EB%B2%95)
- - [ ] [Getting Start 2](http://guswnsxodlf.github.io/how-to-use-travis-ci)
- - [ ] [Getting Start 3](https://nesoy.github.io/articles/2017-01/travis-ci)
- - [ ] [Travis-CI Official Tutorial](https://docs.travis-ci.com/user/tutorial/) <br><br>
- - [ ] [Gradle + SpringBoot + Travis CI + Coveralls + 텔레그램 연동하기](https://jojoldu.tistory.com/275)
- - [ ] [웹 퍼블리싱(스프링부트) 실습 (10강 중 1강)](https://jojoldu.tistory.com/250?category=635883) <br><br>
- - [ ] [안드로이드+트래비스CI](https://androidhuman.tistory.com/540)
- - [ ] [Node.js+트래비스CI](https://blog.outsider.ne.kr/781)
- - [ ] [Node.js+트래비스CI+코드커버리지](https://sanghaklee.tistory.com/53)
- - [ ] [Setup Continuous Integration with Travis CI in Your Nodejs App](https://dev.to/lauragift21/setup-continuous-integration-with-travis-ci-in-your-nodejs-app-26i2)
-
-## Continuous Integration (Jenkins)
- - 19.08.20
- - [ ] https://kingbbode.tistory.com/35
- - [ ] http://www.itworld.co.kr/news/107527
- 
-## Github
- - 19.08.20
- - [ ] [reference](https://www.lesstif.com/pages/viewpage.action?pageId=54952153)
- - [x] [shields.io](https://shields.io/)
- - [ ] [hits, 마크다운 방문자수 뱃지 제공](https://hits.seeyoufarm.com/)
- - [ ] [Github of shields.io](https://github.com/badges/shields)
- - [ ] [How to write **readme.md** better](https://newhiwoong.github.io/%EA%B8%B0%ED%83%80%20%EC%A0%95%EB%B3%B4%20%EA%B3%B5%EC%9C%A0/%EC%88%98%EC%A4%80%EA%B8%89%EC%9D%98-Github-README.md-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
- - [ ] [resume](https://sujinlee.me/professional-github/)
- - [ ] [awesome readme](https://github.com/matiassingers/awesome-readme)
- - [ ] [example](https://github.com/sujinleeme/readme-template/tree/master/korean)
- - [ ] [markdown](https://how-to-use.tistory.com/2)
- - [x] [**readme-md-generator**](https://github.com/kefranabg/readme-md-generator)
- - [ ] [simpleicons](https://simpleicons.org/)
- - [x] [[Git] git add 취소하기, git commit 취소하기, git push 취소하기](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html) `reset HEAD@` `reset HEAD^` `reset --hard`
- - [x] [Git. Tag 추가, 변경, 삭제](https://devmjun.github.io/archive/GitTag)
-
-## Opensource License
- - 19.08.20
- - [ ] http://www.bloter.net/archives/209318
- - [ ] http://jinyongjeong.github.io/2016/06/01/software_license/
- - [ ] https://zinee-world.tistory.com/308
-
-## Heroku
- - 19.09.03
- - [ ] [[Node.js] Heroku로 배포( deploy )하기](https://victorydntmd.tistory.com/112)
- - [ ] [Heroku(헤로쿠) 가입, Heroku CLI 다운로드, 간단 사용법](https://www.a-mean-blog.com/ko/blog/%EB%8B%A8%ED%8E%B8%EA%B0%95%EC%A2%8C/_/Heroku-%ED%97%A4%EB%A1%9C%EC%BF%A0-%EA%B0%80%EC%9E%85-Heroku-CLI-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9%EB%B2%95)
-
-## Typora Diagram
- - [ ] [실시간 미리보기와 코드 펜스 기능을 갖춘 다기능 마크다운 에디터 'Typora'](https://macnews.tistory.com/4799)
-
-## Swift
- - 19.01.19
-
-## Docker
- - 19.05.12
- - [ ] https://www.44bits.io/ko/post/why-should-i-use-docker-container
- - [ ] https://www.slideshare.net/pyrasis/docker-fordummies-44424016
- - [ ] http://www.itworld.co.kr/news/110748
- - [ ] http://devstory.ibksplatform.com/2018/06/docker.html
-
-## iOS
- - 19.06.?
-
 ## Plan
- - Python Study
  - Kotlin Study
 
 <br>
