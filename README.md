@@ -4,13 +4,13 @@
  - 19.12.04
  - [ ] 인사이드 자바스크립트 책
 
-## Shell Script
- - ~~19.09.22~~ :arrow_right: 19.12.10
- - [ ] [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1)
- - 자료 수집 중...
+## TypeScript
+ - 19.10.01, 20.03.27
+ - [DokySp-Study/TypeScrpt](https://github.com/DokySp-study/typescript)
 
-## iOS
- - 19.06.?
+## Three.js
+ - 20.03.25
+ - [DokySp-Study/three.js](https://github.com/DokySp-study/three.js)
 
 ## Swift
  - 19.01.19
@@ -29,6 +29,14 @@
 <br>
 
 # :red_circle: Pending
+
+## Shell Script
+ - ~~19.09.22~~ :arrow_right: 19.12.10
+ - [ ] [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1)
+ - 자료 수집 중...
+
+## iOS
+ - 19.06.?
 
 ## Vue.js
  - 19.06.24
@@ -71,13 +79,6 @@
  - [ ] [simpleicons](https://simpleicons.org/)
  - [x] [[Git] git add 취소하기, git commit 취소하기, git push 취소하기](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html) `reset HEAD@` `reset HEAD^` `reset --hard`
  - [x] [Git. Tag 추가, 변경, 삭제](https://devmjun.github.io/archive/GitTag)
-
-## TypeScript
- - 19.10.01
- - [ ] [**TypeScript-Handbook 한글 문서**](https://typescript-kr.github.io/)
- - [ ] [TypeScript의 소개와 개발 환경 구축](https://poiemaweb.com/typescript-introduction)
- - [ ] [TypeScript를 무서워하지 않아도 되는 이유](https://han41858.tistory.com/14)
- - [ ] [TypeScript 현업 적용 후기](https://medium.com/tapjoykorea/typescript-%ED%98%84%EC%97%85-%EC%A0%81%EC%9A%A9-%ED%9B%84%EA%B8%B0-caad266c8142)
 
 ## Opensource License
  - 19.08.20
