@@ -33,6 +33,10 @@
  - 백엔드와 프론트엔드 개념까지
  - SSL 적용, 세션 기능 활용, 쿠기 활용 등,,
  - 기획중...
+ 
+## git-scm
+ - 20.03.28
+ - [DokySp-study/git-scm](https://github.com/DokySp-study/git-scm)
 
 <br>
 
@@ -187,7 +191,7 @@
  - **tmux에서 vim 실행 시, 색이 이상해지는 문제가 있음!**
 
 ## :heavy_check_mark: Git-Flow 및 버전관리
- - https://github.com/DokySp-study/git-flow-test
+ - [DokySp-study/git-flow-test](https://github.com/DokySp-study/git-flow-test)
  - [x] [[Git]Tag 추가, 변경 및 삭제하기](http://minsone.github.io/git/git-addtion-and-modified-delete-tag)
  - [x] [Git Flow Integration으로 Git Flow 심플하게 운영하기](https://jojoldu.tistory.com/268)
  - [x] [Git의 개념과 Git Flow](https://cupjoo.tistory.com/6)
