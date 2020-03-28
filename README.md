@@ -1,11 +1,11 @@
 # :large_blue_circle: Open
 
 ## Javascript
- - 19.12.04
+ - ~~19.12.04~~ :arrow_right: 
  - [ ] 인사이드 자바스크립트 책
 
 ## TypeScript
- - 19.10.01, 20.03.27
+ - ~~19.10.01~~ :arrow_right: 20.03.27
  - [DokySp-Study/TypeScrpt](https://github.com/DokySp-study/typescript)
 
 ## Three.js
@@ -17,7 +17,7 @@
 
 ## Python
  - ~~19.10.15~~ :arrow_right: 19.11.18
- - [Repository](https://github.com/DokySp-study/python)
+ - [DokySp-study/python](https://github.com/DokySp-study/python)
  - [x] 가장 쉬운 파이썬 입문교실 책
  - [ ] Bite to Python 책
 
