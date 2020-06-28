@@ -1,5 +1,9 @@
 # :large_blue_circle: Open
 
+## C++
+ - 20.06.28
+ - [씹어먹는 C++](https://modoocode.com/135)
+
 ## Javascript
  - ~~19.12.04~~ :arrow_right: 
  - [ ] 인사이드 자바스크립트 책
